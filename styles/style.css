@@ -179,7 +179,9 @@ nav li a {
 .games-card {
     padding: 120px 240px;
     text-align: center;
+    
 }
+
 .games-text-container {
     gap: 10px;
 }
@@ -199,13 +201,147 @@ nav li a {
     font-size: 48px;
     font-weight: 700;
 }
+
 .games-container {
     display: flex;
+    justify-content: center;
     gap: 20px;
 }
+
 .games-titel {
     text-align: left;
 }
+
+/* Icons Styles */
+
+.icons {
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+}
+
+.icons-container {
+    padding: 120px 276px;
+}
+.first-icons-div {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-one {
+    width: 220px;
+    height: 70px;
+    border-radius: 50px;
+    background: #FFF;
+    border-radius: 50px;
+    background-image: url(../images/Rectangle\ 11.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border: 0;
+    margin-right: 20px;
+}   
+.btn-two {
+    width: 220px;
+    height: 70px;
+    border-radius: 50px;
+    background: #FFF;
+    border-radius: 50px;
+    background-image: url(../images/Rectangle\ 12.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border: 0;
+    margin-right: 20px;
+}
+.btn-three {
+    width: 220px;
+    height: 70px;
+    border-radius: 50px;
+    background: #FFF;
+    border-radius: 50px;
+    background-image: url(../images/Rectangle\ 13.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border: 0;
+    margin-right: 20px;
+}
+.btn-four {
+    width: 220px;
+    height: 70px;
+    border-radius: 50px;
+    background: #FFF;
+    border-radius: 50px;
+    background-image: url(../images/Rectangle\ 14.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border: 0;
+    margin-right: 20px;
+}
+.btn-five {
+    width: 220px;
+    height: 70px;
+    border-radius: 50px;
+    background: #FFF;
+    border-radius: 50px;
+    background-image: url(../images/Rectangle\ 15.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border: 0;
+    margin-right: 20px;
+}
+
+.second-icons-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.btn-six {
+    width: 220px;
+    height: 70px;
+    border-radius: 50px;
+    background: #FFF;
+    border-radius: 50px;
+    background-image: url(../images/Rectangle\ 16.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border: 0;
+    margin-right: 20px;
+}
+.btn-seven {
+    width: 220px;
+    height: 70px;
+    border-radius: 50px;
+    background: #FFF;
+    border-radius: 50px;
+    background-image: url(../images/Rectangle\ 17.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border: 0;
+    margin-right: 20px;
+}
+.btn-eight {
+    width: 220px;
+    height: 70px;
+    border-radius: 50px;
+    background: #FFF;
+    border-radius: 50px;
+    background-image: url(../images/Rectangle\ 18.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border: 0;
+    margin-right: 20px;
+}
+.btn-nine {
+    width: 220px;
+    height: 70px;
+    border-radius: 50px;
+    background: #FFF;
+    border-radius: 50px;
+    background-image: url(../images/Rectangle\ 19.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border: 0;
+    margin-right: 20px;
+}
+
 
 
 
