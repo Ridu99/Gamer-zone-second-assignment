@@ -179,7 +179,7 @@ nav li a {
 .games-card {
     padding: 120px 240px;
     text-align: center;
-    
+
 }
 
 .games-text-container {
@@ -221,6 +221,7 @@ nav li a {
 .icons-container {
     padding: 120px 276px;
 }
+
 .first-icons-div {
     display: flex;
     justify-content: center;
@@ -237,7 +238,8 @@ nav li a {
     background-position: left;
     border: 0;
     margin-right: 20px;
-}   
+}
+
 .btn-two {
     width: 220px;
     height: 70px;
@@ -250,6 +252,7 @@ nav li a {
     border: 0;
     margin-right: 20px;
 }
+
 .btn-three {
     width: 220px;
     height: 70px;
@@ -262,6 +265,7 @@ nav li a {
     border: 0;
     margin-right: 20px;
 }
+
 .btn-four {
     width: 220px;
     height: 70px;
@@ -274,6 +278,7 @@ nav li a {
     border: 0;
     margin-right: 20px;
 }
+
 .btn-five {
     width: 220px;
     height: 70px;
@@ -305,6 +310,7 @@ nav li a {
     border: 0;
     margin-right: 20px;
 }
+
 .btn-seven {
     width: 220px;
     height: 70px;
@@ -317,6 +323,7 @@ nav li a {
     border: 0;
     margin-right: 20px;
 }
+
 .btn-eight {
     width: 220px;
     height: 70px;
@@ -329,6 +336,7 @@ nav li a {
     border: 0;
     margin-right: 20px;
 }
+
 .btn-nine {
     width: 220px;
     height: 70px;
@@ -342,6 +350,69 @@ nav li a {
     margin-right: 20px;
 }
 
+/* Blank Section Styles */
+
+.blank {
+    background: #FFF;
+    width: 1920px;
+    height: 500px;
+}
+
+/* Footer Styles */
+
+.footer {
+    background: #0B0223;
+    padding: 130px 560px;
+}
+
+.footer-titel {
+    display: flex;
+    justify-content: center;
+}
+
+.white {
+    color: #FFF;
+}
+
+.footer-paragraph-container {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.footer-titel-paragraph {
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.footer-paragraph {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 50px;
+}
+
+.footer-lag-paragraph {
+    color: rgba(255, 255, 255, 0.60);;
+    font-size: 16px;
+    font-weight: 500;
+}
+.last-paragraph {
+    color: rgba(255, 255, 255, 0.60);;
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+}
 
 
 
