@@ -173,3 +173,66 @@ nav li a {
     line-height: 45px;
     /* 187.5% */
 }
+
+/* Online Games Styles */
+
+.games-card {
+    padding: 120px 240px;
+    text-align: center;
+}
+.games-text-container {
+    gap: 10px;
+}
+
+.games-caed-titel {
+    color: #0B0223;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.games-caed-titel-color {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 48px;
+    font-weight: 700;
+}
+.games-container {
+    display: flex;
+    gap: 20px;
+}
+.games-titel {
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive Media Quary */
+
+@media screen and (max-width:576px) {
+    nav {
+        flex-direction: column;
+    }
+
+    .nav {
+        flex-direction: column;
+    }
+}
